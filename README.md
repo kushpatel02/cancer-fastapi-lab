@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis API - FastAPI
+# Breast Cancer Diagnosis API - FastAPI (LAB1)
 
 A machine learning inference service built with **FastAPI** that classifies breast tumors as **malignant** or **benign** from 30 cell-nucleus measurements. The project covers the full serving workflow: data loading, model training and evaluation, a validated REST API, automated tests, and containerized deployment with Docker.
 
