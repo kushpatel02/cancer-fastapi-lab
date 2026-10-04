@@ -1,0 +1,13 @@
+{
+  "model_type": "StandardScaler + GradientBoostingClassifier",
+  "classes": [
+    "malignant",
+    "benign"
+  ],
+  "n_features": 30,
+  "metrics": {
+    "accuracy": 0.9561,
+    "f1": 0.966,
+    "roc_auc": 0.9911
+  }
+}
